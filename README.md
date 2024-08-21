@@ -1,2 +1,2 @@
-# MeuCurriculo
+# MeuCurrículo
 Bem-Vindo
